@@ -1,7 +1,3 @@
-Berikut adalah contoh README untuk repositori GitHub yang berisi proyek klasifikasi data penumpang Titanic menggunakan metode Ensemble Learning dan Voting Classifier.
-
----
-
 # Klasifikasi Data Penumpang Titanic dengan Ensemble Learning: Perbandingan Hasil Voting Classifier
 
 ## Deskripsi Proyek
